@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bora</h1>
 <h3 align="center">A passionate game developer from Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fleqpe&label=Profile%20views&color=0e75b6&style=flat" alt="boraswim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=boraswim&label=Profile%20views&color=0e75b6&style=flat" alt="boraswim" /> </p>
 
 - 🌱 I’m constantly honing my skills on **Unity,C#**
 
