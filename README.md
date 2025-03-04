@@ -5,7 +5,7 @@
 
 - 🌱 I’m constantly honing my skills on **Unity,C#**
 
-- 👨‍💻 All of my projects are available at [https://boraswim.github.io/](https://boraswim.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/boraswim](https://github.com/boraswim)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
