@@ -18,7 +18,7 @@
 - 💼 **RPA Developer** at **NTT DATA Business Solutions**, building UiPath + SAP automations in an Agile team
 - 📜 **UiPath Certified Automation Developer Professional** (2026)
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
-- 🏆 **Google Game & App Academy**: first place with *HELLMATE* (presented at Take Off'24) and the Bootcamp'24 Special Jury Award with *Escape of The King*
+- 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*, now continued as *HELLMATE*
 - 🌐 Personal site: **[boraswim.github.io](https://boraswim.github.io)**
 - 🌍 Turkish (native) · English (C1) · German (B1)
 
@@ -63,7 +63,7 @@
     <td width="50%" valign="top" align="center">
       <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905380/09f87e91b9d4c3b9ce5fc1b5945352521b4ad2dc/header.jpg" alt="HELLMATE" height="150" /></a>
       <h3><a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">HELLMATE</a></h3>
-      Roguelike chess deck-builder set in the seven floors of Hell, developed with Volvox Games. 🏆 First place at the Google Game &amp; App Academy.
+      Roguelike chess deck-builder set in the seven floors of Hell, developed with Volvox Games. Formerly <i>Escape of The King</i>: 🏆 Special Jury Award at Google Bootcamp'24.
       <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">▶️ Demo on Steam</a>
     </td>
     <td width="50%" valign="top" align="center">
@@ -80,7 +80,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | **UiPath RPA Processes** | Business process automations I've been building end to end since 2024 at BSH and NTT DATA: from PDDs to development, testing and UAT with business units | UiPath, VB.NET, SAP |
-| **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants); later continued as HELLMATE | Unity, C# |
+| **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants); renamed HELLMATE and continued with Volvox Games | Unity, C# |
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
 | [**Web-SEO-Analysis-Project**](https://github.com/boraswim/Web-SEO-Analysis-Project) | Calculates a page's SEO score using Google criteria and analyzes its HTML | Next.js, React |
 | [**StdInfoSys-Web**](https://github.com/boraswim/StdInfoSys-Web) | Student information system web app | React, Node.js |
