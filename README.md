@@ -2,6 +2,7 @@
 <h3 align="center">Computer Engineer · RPA Developer · Game Developer</h3>
 
 <p align="center">
+  <a href="https://boraswim.github.io"><img src="https://img.shields.io/badge/Website-boraswim.github.io-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/borasevim/"><img src="https://img.shields.io/badge/LinkedIn-borasevim-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sevimbora@gmail.com"><img src="https://img.shields.io/badge/Email-sevimbora%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=boraswim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -16,6 +17,7 @@
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
 - 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*
 - 🔭 Currently building **[Vocalworks](https://github.com/boraswim/vocalworks)** (a cover-singing app that matches your vocal to the original), **[ÇivitTV](https://github.com/boraswim/civit-tv)** (an Apple TV-style Android TV launcher) and **TierFight** (a multiplayer tier-list party game)
+- 🌐 Personal site: **[boraswim.github.io](https://boraswim.github.io)**
 - 🌍 Turkish (native) · English (C1) · German (B1)
 
 ### 💼 Experience
