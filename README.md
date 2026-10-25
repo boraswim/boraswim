@@ -14,10 +14,11 @@
 
 ### 🙋 About Me
 
-- 🎓 **MSc student in Computer Engineering at Yıldız Technical University** (2026 – 2028), BSc from **Istanbul University – Cerrahpaşa** (2025, GPA 3.61/4.0)
-- 💼 **Junior RPA Developer** at **NTT DATA Business Solutions**, building UiPath + SAP automations in an Agile team
+- 🎓 **MSc student in Computer Engineering at Yıldız Technical University** (2026 – 2028), BSc from **Istanbul University – Cerrahpaşa** (2025, GPA 3.62/4.0)
+- 💼 **RPA Developer** at **NTT DATA Business Solutions**, building UiPath + SAP automations in an Agile team
+- 📜 **UiPath Certified Automation Developer Professional** (2026)
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
-- 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*
+- 🏆 **Google Game & App Academy**: first place with *HELLMATE* (presented at Take Off'24) and the Bootcamp'24 Special Jury Award with *Escape of The King*
 - 🌐 Personal site: **[boraswim.github.io](https://boraswim.github.io)**
 - 🌍 Turkish (native) · English (C1) · German (B1)
 
@@ -33,11 +34,13 @@
 
 | Role | Company | Period |
 |---|---|---|
-| Junior RPA Developer | NTT DATA Business Solutions | Jul 2025 – Present |
-| Project Student – Junior RPA Developer | BSH Home Appliances | Aug 2024 – Jul 2025 |
-| Game Developer | Volvox Games | Oct 2024 – Jun 2025 |
-| Project Manager (20 students, 4 game teams) | OTK | Sep 2021 – Jun 2025 |
-| Web Development Intern | Ciner Publishing Holding | Jun 2023 – Aug 2023 |
+| RPA Developer | NTT DATA Business Solutions | Jul 2025 – Present |
+| IT Project Student (RPA) | BSH Home Appliances | Aug 2024 – Jul 2025 |
+| Game Developer | Volvox Games | Aug 2024 – Jul 2025 |
+| Project Leader (20 students, 4 game teams) | OTK | Jul 2023 – Jul 2025 |
+| Lead Game Designer | OTK | Jun 2021 – Jul 2023 |
+| Web Development Intern | Ciner Publishing Holding | Jun 2024 – Jul 2024 |
+| Web Development Intern | Turkuvaz Media Digital | Jul 2023 – Aug 2023 |
 
 ### ⭐ Featured Projects
 
@@ -60,7 +63,7 @@
     <td width="50%" valign="top" align="center">
       <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905380/09f87e91b9d4c3b9ce5fc1b5945352521b4ad2dc/header.jpg" alt="HELLMATE" height="150" /></a>
       <h3><a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">HELLMATE</a></h3>
-      Roguelike chess deck-builder set in the seven floors of Hell, developed with Volvox Games.
+      Roguelike chess deck-builder set in the seven floors of Hell, developed with Volvox Games. 🏆 First place at the Google Game &amp; App Academy.
       <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">▶️ Demo on Steam</a>
     </td>
     <td width="50%" valign="top" align="center">
@@ -77,7 +80,7 @@
 | Project | Description | Stack |
 |---|---|---|
 | **UiPath RPA Processes** | Business process automations I've been building end to end since 2024 at BSH and NTT DATA: from PDDs to development, testing and UAT with business units | UiPath, VB.NET, SAP |
-| **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants) | Unity, C# |
+| **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants); later continued as HELLMATE | Unity, C# |
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
 | [**Web-SEO-Analysis-Project**](https://github.com/boraswim/Web-SEO-Analysis-Project) | Calculates a page's SEO score using Google criteria and analyzes its HTML | Next.js, React |
 | [**StdInfoSys-Web**](https://github.com/boraswim/StdInfoSys-Web) | Student information system web app | React, Node.js |
