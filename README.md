@@ -27,7 +27,7 @@
 - 📚 Starting my **MSc** at Yıldız Technical University
 - 🎤 Building **[Vocalworks](https://github.com/boraswim/vocalworks)**, a cover-singing app that matches your vocal to the original
 - 📺 Building **[ÇivitTV](https://github.com/boraswim/civit-tv)**, an Apple TV-style launcher for Android TV
-- 🃏 Building **TierFight**, a multiplayer tier-list party game with shared rooms
+- 🃏 Running **[TierFight](https://tierfight.com)**, my multiplayer tier-list party game, now live at tierfight.com
 - 🕹️ Prototyping games in **Godot**
 
 ### 💼 Experience
@@ -73,6 +73,20 @@
       <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://boraswim.github.io/naor/">🌐 Project page</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://tierfight.com"><img src="https://boraswim.github.io/tierfight/preview.png" alt="TierFight" height="150" /></a>
+      <h3><a href="https://tierfight.com">TierFight</a> 🟢</h3>
+      Multiplayer tier-list party game, live at tierfight.com: rooms for 2–12 players, powerups, chat, player-made collections and 11 languages.
+      <br /><br /><code>TypeScript</code> <code>React</code> <code>Cloudflare</code> · <a href="https://tierfight.com">▶️ Play</a> · <a href="https://boraswim.github.io/tierfight/">🌐 Project page</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://boraswim.github.io/gamejams/"><img src="https://boraswim.github.io/gamejams/preview.jpg" alt="Game jams" height="150" /></a>
+      <h3><a href="https://boraswim.github.io/gamejams/">Game Jams</a></h3>
+      MASS, Time &amp; Space Agent and Trials of Jigsaw. MASS placed 2nd in originality and 5th of 67 at HUJAM'22.
+      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://boraswim.github.io/gamejams/">🌐 Project page</a>
+    </td>
+  </tr>
 </table>
 
 ### 🚀 More Projects
@@ -84,7 +98,6 @@
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
 | [**Web-SEO-Analysis-Project**](https://github.com/boraswim/Web-SEO-Analysis-Project) | Calculates a page's SEO score using Google criteria and analyzes its HTML | Next.js, React |
 | [**StdInfoSys-Web**](https://github.com/boraswim/StdInfoSys-Web) | Student information system web app | React, Node.js |
-| [**Game Jams**](https://boraswim.github.io/gamejams/) | MASS (2nd in originality, 5th of 67 at HUJAM'22), Time & Space Agent and Trials of Jigsaw; [all submissions](https://github.com/boraswim/GameJamSubmissions) | Unity, C# |
 | [**GoogleAkademi2023**](https://github.com/boraswim/GoogleAkademi2023) | Projects from the Google Game & App Academy 2023 term | Unity, C# |
 | [**PDF-Merger**](https://github.com/boraswim/PDF-Merger) | Simple PDF merging tool | Python |
 | [**Connect4**](https://github.com/boraswim/Connect4) | Two-player console Connect4 using C file operations | C |
