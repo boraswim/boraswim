@@ -70,10 +70,3 @@
 </p>
 
 **RPA & Enterprise:** UiPath · SAP · VB.NET
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boraswim&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boraswim&layout=compact&hide_border=true" alt="Top languages" height="165" />
-</p>
