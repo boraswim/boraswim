@@ -50,27 +50,27 @@
       <a href="https://github.com/boraswim/vocalworks"><img src="https://raw.githubusercontent.com/boraswim/vocalworks/main/app/assets/vocalworks-capsule.png" alt="Vocalworks" height="150" /></a>
       <h3><a href="https://github.com/boraswim/vocalworks">Vocalworks</a></h3>
       Windows app for singing covers: records your vocal, matches the original's production (pitch, tone, compression, room…) automatically and mixes the cover, all locally.
-      <br /><br /><code>Python</code> <code>Demucs</code> <code>DSP</code>
+      <br /><br /><code>Python</code> <code>Demucs</code> <code>DSP</code> · <a href="https://boraswim.github.io/vocalworks/">🌐 Project page</a>
     </td>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/boraswim/civit-tv"><img src="https://raw.githubusercontent.com/boraswim/civit-tv/main/docs/home-screen.webp" alt="ÇivitTV home screen" height="150" /></a>
       <h3><a href="https://github.com/boraswim/civit-tv">ÇivitTV</a></h3>
       Apple TV 4K-style home screen for Android TV with content shelves, weather, prayer times and a remote "mouse mode", plus debloat scripts.
-      <br /><br /><code>Kotlin</code> <code>Jetpack Compose</code> <code>PowerShell</code>
+      <br /><br /><code>Kotlin</code> <code>Jetpack Compose</code> <code>PowerShell</code> · <a href="https://boraswim.github.io/civittv/">🌐 Project page</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905380/09f87e91b9d4c3b9ce5fc1b5945352521b4ad2dc/header.jpg" alt="HELLMATE" height="150" /></a>
+      <a href="https://boraswim.github.io/hellmate/"><img src="https://boraswim.github.io/hellmate/header.jpg" alt="HELLMATE" height="150" /></a>
       <h3><a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">HELLMATE</a></h3>
       Roguelike chess deck-builder set in the seven floors of Hell, developed with Volvox Games. Formerly <i>Escape of The King</i>: 🏆 Special Jury Award at Google Bootcamp'24.
-      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">▶️ Demo on Steam</a>
+      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">▶️ Demo on Steam</a> · <a href="https://boraswim.github.io/hellmate/">🌐 Project page</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://otk-lab.github.io/NAOR/"><img src="https://raw.githubusercontent.com/OTK-LAB/NAOR/develop/docs/naor-capsule.png" alt="The Nine Aspect of Realms" height="150" /></a>
+      <a href="https://boraswim.github.io/naor/"><img src="https://raw.githubusercontent.com/OTK-LAB/NAOR/develop/docs/naor-capsule.png" alt="The Nine Aspect of Realms" height="150" /></a>
       <h3><a href="https://github.com/OTK-LAB/NAOR">NAOR</a></h3>
       <i>The Nine Aspect of Realms</i>: a 2D pixel-art action platformer built by the OTK game dev team.
-      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://otk-lab.github.io/NAOR/">▶️ Play in your browser</a>
+      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://boraswim.github.io/naor/">🌐 Project page</a>
     </td>
   </tr>
 </table>
@@ -80,11 +80,11 @@
 | Project | Description | Stack |
 |---|---|---|
 | **UiPath RPA Processes** | Business process automations I've been building end to end since 2024 at BSH and NTT DATA: from PDDs to development, testing and UAT with business units | UiPath, VB.NET, SAP |
-| **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants); renamed HELLMATE and continued with Volvox Games | Unity, C# |
+| [**Escape of The King**](https://boraswim.github.io/hellmate/) | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants); renamed HELLMATE and continued with Volvox Games | Unity, C# |
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
 | [**Web-SEO-Analysis-Project**](https://github.com/boraswim/Web-SEO-Analysis-Project) | Calculates a page's SEO score using Google criteria and analyzes its HTML | Next.js, React |
 | [**StdInfoSys-Web**](https://github.com/boraswim/StdInfoSys-Web) | Student information system web app | React, Node.js |
-| [**GameJamSubmissions**](https://github.com/boraswim/GameJamSubmissions) | Every game jam I've joined since 2022 | Unity, C# |
+| [**Game Jams**](https://boraswim.github.io/gamejams/) | MASS (2nd in originality, 5th of 67 at HUJAM'22), Time & Space Agent and Trials of Jigsaw; [all submissions](https://github.com/boraswim/GameJamSubmissions) | Unity, C# |
 | [**GoogleAkademi2023**](https://github.com/boraswim/GoogleAkademi2023) | Projects from the Google Game & App Academy 2023 term | Unity, C# |
 | [**PDF-Merger**](https://github.com/boraswim/PDF-Merger) | Simple PDF merging tool | Python |
 | [**Connect4**](https://github.com/boraswim/Connect4) | Two-player console Connect4 using C file operations | C |
