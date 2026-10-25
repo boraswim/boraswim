@@ -64,7 +64,7 @@
       <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">▶️ Demo on Steam</a>
     </td>
     <td width="50%" valign="top" align="center">
-      <a href="https://otk-lab.github.io/NAOR/"><img src="https://raw.githubusercontent.com/OTK-LAB/NAOR/develop/Assets/9AspectOfRealms.png" alt="The Nine Aspect of Realms" height="150" /></a>
+      <a href="https://otk-lab.github.io/NAOR/"><img src="https://raw.githubusercontent.com/OTK-LAB/NAOR/develop/docs/naor-capsule.png" alt="The Nine Aspect of Realms" height="150" /></a>
       <h3><a href="https://github.com/OTK-LAB/NAOR">NAOR</a></h3>
       <i>The Nine Aspect of Realms</i>: a 2D pixel-art action platformer built by the OTK game dev team.
       <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://otk-lab.github.io/NAOR/">▶️ Play in your browser</a>
