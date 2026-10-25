@@ -76,8 +76,8 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| **UiPath RPA Processes** | Business process automations I've been building end to end since 2024 at BSH and NTT DATA: from PDDs to development, testing and UAT with business units | UiPath, VB.NET, SAP |
 | **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants) | Unity, C# |
-| **UiPath Business Process** | End-to-end RPA process built from a business unit's PDD, including UAT sessions with the business | UiPath, VB.NET, SAP |
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
 | [**Web-SEO-Analysis-Project**](https://github.com/boraswim/Web-SEO-Analysis-Project) | Calculates a page's SEO score using Google criteria and analyzes its HTML | Next.js, React |
 | [**StdInfoSys-Web**](https://github.com/boraswim/StdInfoSys-Web) | Student information system web app | React, Node.js |
