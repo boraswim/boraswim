@@ -15,7 +15,7 @@
 ### 🙋 About Me
 
 - 🎓 **MSc student in Computer Engineering at Yıldız Technical University** (2026 – 2028), BSc from **Istanbul University – Cerrahpaşa** (2025, GPA 3.62/4.0)
-- 💼 **RPA Developer** at **NTT DATA Business Solutions**, building UiPath + SAP automations in an Agile team
+- 💼 **RPA Developer** at **NTT DATA Business Solutions**, working externally at **BSH Home Appliances** on UiPath + SAP automations in an Agile team
 - 📜 **UiPath Certified Automation Developer Professional** (2026)
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
 - 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*, now continued as *HELLMATE*
@@ -34,7 +34,7 @@
 
 | Role | Company | Period |
 |---|---|---|
-| RPA Developer | NTT DATA Business Solutions | Jul 2025 – Present |
+| RPA Developer (external at BSH) | NTT DATA Business Solutions | Jul 2025 – Present |
 | IT Project Student (RPA) | BSH Home Appliances | Aug 2024 – Jul 2025 |
 | Game Developer | Volvox Games | Aug 2024 – Jul 2025 |
 | Project Leader (20 students, 4 game teams) | OTK | Jul 2023 – Jul 2025 |
