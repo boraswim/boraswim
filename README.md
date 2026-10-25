@@ -44,7 +44,7 @@
 <table>
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/boraswim/vocalworks"><img src="https://raw.githubusercontent.com/boraswim/vocalworks/main/app/assets/vocalworks.png" alt="Vocalworks" height="150" /></a>
+      <a href="https://github.com/boraswim/vocalworks"><img src="https://raw.githubusercontent.com/boraswim/vocalworks/main/app/assets/vocalworks-capsule.png" alt="Vocalworks" height="150" /></a>
       <h3><a href="https://github.com/boraswim/vocalworks">Vocalworks</a></h3>
       Windows app for singing covers: records your vocal, matches the original's production (pitch, tone, compression, room…) automatically and mixes the cover, all locally.
       <br /><br /><code>Python</code> <code>Demucs</code> <code>DSP</code>
