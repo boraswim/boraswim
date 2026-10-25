@@ -11,11 +11,11 @@
 
 ### 🙋 About Me
 
-- 🎓 Computer Engineering graduate of **Istanbul University – Cerrahpaşa** (2025, GPA 3.61/4.0), starting an **MSc in Computer Engineering at Yıldız Technical University** (2026)
+- 🎓 **MSc student in Computer Engineering at Yıldız Technical University** (2026 – 2028), BSc from **Istanbul University – Cerrahpaşa** (2025, GPA 3.61/4.0)
 - 💼 **Junior RPA Developer** at **NTT DATA Business Solutions**, building UiPath + SAP automations in an Agile team
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
 - 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*
-- 🔭 Currently building **TierFight**, a multiplayer tier-list party game with shared rooms (TypeScript)
+- 🔭 Currently building **[Vocalworks](https://github.com/boraswim/vocalworks)** (a cover-singing app that matches your vocal to the original), **[ÇivitTV](https://github.com/boraswim/civit-tv)** (an Apple TV-style Android TV launcher) and **TierFight** (a multiplayer tier-list party game)
 - 🌍 Turkish (native) · English (C1) · German (B1)
 
 ### 💼 Experience
@@ -32,8 +32,11 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**Vocalworks**](https://github.com/boraswim/vocalworks) | Windows app for singing covers: records your vocal, matches the original's production (pitch, tone, compression, room…) automatically and mixes the cover, all locally | Python, Demucs, DSP |
+| [**ÇivitTV**](https://github.com/boraswim/civit-tv) | Apple TV 4K-style home screen for Android TV with content shelves, weather, prayer times and a remote "mouse mode", plus debloat scripts | Kotlin, Jetpack Compose, PowerShell |
 | [**HELLMATE**](https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/) | Chess deck-builder developed with Volvox Games, demo published on [Steam](https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/) | Unity, C# |
 | **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants) | Unity, C# |
+| **UiPath Business Process** | End-to-end RPA process built from a business unit's PDD, including UAT sessions with the business | UiPath, VB.NET, SAP |
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
 | [**Web-SEO-Analysis-Project**](https://github.com/boraswim/Web-SEO-Analysis-Project) | Calculates a page's SEO score using Google criteria and analyzes its HTML | Next.js, React |
 | [**StdInfoSys-Web**](https://github.com/boraswim/StdInfoSys-Web) | Student information system web app | React, Node.js |
@@ -57,6 +60,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" title="Dart" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" />
