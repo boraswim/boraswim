@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bora Sevim</h1>
 <h3 align="center">Computer Engineer · RPA Developer · Game Developer</h3>
 
+<p align="center">I automate business processes with <b>UiPath &amp; SAP</b>, and build games and tools in <b>Unity, Godot, Python and Kotlin</b>.</p>
+
 <p align="center">
   <a href="https://boraswim.github.io"><img src="https://img.shields.io/badge/Website-boraswim.github.io-0e75b6?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/borasevim/"><img src="https://img.shields.io/badge/LinkedIn-borasevim-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -16,9 +18,16 @@
 - 💼 **Junior RPA Developer** at **NTT DATA Business Solutions**, building UiPath + SAP automations in an Agile team
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
 - 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*
-- 🔭 Currently building **[Vocalworks](https://github.com/boraswim/vocalworks)** (a cover-singing app that matches your vocal to the original), **[ÇivitTV](https://github.com/boraswim/civit-tv)** (an Apple TV-style Android TV launcher) and **TierFight** (a multiplayer tier-list party game)
 - 🌐 Personal site: **[boraswim.github.io](https://boraswim.github.io)**
 - 🌍 Turkish (native) · English (C1) · German (B1)
+
+### 🔭 Currently
+
+- 📚 Starting my **MSc** at Yıldız Technical University
+- 🎤 Building **[Vocalworks](https://github.com/boraswim/vocalworks)**, a cover-singing app that matches your vocal to the original
+- 📺 Building **[ÇivitTV](https://github.com/boraswim/civit-tv)**, an Apple TV-style launcher for Android TV
+- 🃏 Building **TierFight**, a multiplayer tier-list party game with shared rooms
+- 🕹️ Prototyping games in **Godot**
 
 ### 💼 Experience
 
@@ -30,13 +39,43 @@
 | Project Manager (20 students, 4 game teams) | OTK | Sep 2021 – Jun 2025 |
 | Web Development Intern | Ciner Publishing Holding | Jun 2023 – Aug 2023 |
 
-### 🚀 Highlighted Projects
+### ⭐ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/boraswim/vocalworks"><img src="https://raw.githubusercontent.com/boraswim/vocalworks/main/app/assets/vocalworks.png" alt="Vocalworks" height="150" /></a>
+      <h3><a href="https://github.com/boraswim/vocalworks">Vocalworks</a></h3>
+      Windows app for singing covers: records your vocal, matches the original's production (pitch, tone, compression, room…) automatically and mixes the cover, all locally.
+      <br /><br /><code>Python</code> <code>Demucs</code> <code>DSP</code>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/boraswim/civit-tv"><img src="https://raw.githubusercontent.com/boraswim/civit-tv/main/docs/home-screen.webp" alt="ÇivitTV home screen" height="150" /></a>
+      <h3><a href="https://github.com/boraswim/civit-tv">ÇivitTV</a></h3>
+      Apple TV 4K-style home screen for Android TV with content shelves, weather, prayer times and a remote "mouse mode", plus debloat scripts.
+      <br /><br /><code>Kotlin</code> <code>Jetpack Compose</code> <code>PowerShell</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/"><img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4905380/09f87e91b9d4c3b9ce5fc1b5945352521b4ad2dc/header.jpg" alt="HELLMATE" height="150" /></a>
+      <h3><a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">HELLMATE</a></h3>
+      Roguelike chess deck-builder set in the seven floors of Hell, developed with Volvox Games.
+      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/">▶️ Demo on Steam</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://otk-lab.github.io/NAOR/"><img src="https://raw.githubusercontent.com/OTK-LAB/NAOR/develop/Assets/9AspectOfRealms.png" alt="The Nine Aspect of Realms" height="150" /></a>
+      <h3><a href="https://github.com/OTK-LAB/NAOR">NAOR</a></h3>
+      <i>The Nine Aspect of Realms</i>: a 2D pixel-art action platformer built by the OTK game dev team.
+      <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://otk-lab.github.io/NAOR/">▶️ Play in your browser</a>
+    </td>
+  </tr>
+</table>
+
+### 🚀 More Projects
 
 | Project | Description | Stack |
 |---|---|---|
-| [**Vocalworks**](https://github.com/boraswim/vocalworks) | Windows app for singing covers: records your vocal, matches the original's production (pitch, tone, compression, room…) automatically and mixes the cover, all locally | Python, Demucs, DSP |
-| [**ÇivitTV**](https://github.com/boraswim/civit-tv) | Apple TV 4K-style home screen for Android TV with content shelves, weather, prayer times and a remote "mouse mode", plus debloat scripts | Kotlin, Jetpack Compose, PowerShell |
-| [**HELLMATE**](https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/) | Chess deck-builder developed with Volvox Games, demo published on [Steam](https://store.steampowered.com/app/4905380/Hellmate_Chess_Deck_Builder/) | Unity, C# |
 | **Escape of The King** | Chess-based game, Special Jury Award at Google Bootcamp'24 (3000+ contestants) | Unity, C# |
 | **UiPath Business Process** | End-to-end RPA process built from a business unit's PDD, including UAT sessions with the business | UiPath, VB.NET, SAP |
 | **Walkverse** | Step-counting app with a global leaderboard and Firebase auth | Flutter, Dart, Firebase |
@@ -51,22 +90,29 @@
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" title="Unity" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="40" height="40" title="Godot" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" title="Flutter" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" title="Dart" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" title="Kotlin" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40" title="Jira" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" width="40" height="40" title="Trello" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="32" height="32" title="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="32" height="32" title="Unity" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="32" height="32" title="Godot" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="32" height="32" title="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="32" height="32" title="Kotlin" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="32" height="32" title="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="32" height="32" title="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="32" height="32" title="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="32" height="32" title="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="32" height="32" title="Flutter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="32" height="32" title="Dart" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="32" height="32" title="Firebase" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32" title="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="32" height="32" title="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="32" height="32" title="Jira" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="Trello" width="32" height="32" title="Trello" />
 </p>
 
-**RPA & Enterprise:** UiPath · SAP · VB.NET
+| Category | Tools & Technologies |
+|---|---|
+| **Game Development** | Unity · C# · Godot · GDScript |
+| **RPA & Enterprise** | UiPath · SAP · VB.NET |
+| **Web & Mobile** | JavaScript · TypeScript · React · Next.js · Node.js · Flutter · Dart · Firebase |
+| **Desktop & Tools** | Python · Kotlin · Jetpack Compose · PowerShell |
+| **Data** | MySQL |
+| **Workflow** | Git · Jira · Trello · Wiki · Agile/Scrum |
