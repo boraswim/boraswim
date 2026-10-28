@@ -17,6 +17,7 @@
 - 🎓 **MSc student in Computer Engineering at Yıldız Technical University** (2026 – 2028), BSc from **Istanbul University – Cerrahpaşa** (2025, GPA 3.62/4.0)
 - 💼 **RPA Developer** at **NTT DATA Business Solutions**, working externally at **BSH Home Appliances** on UiPath + SAP automations in an Agile team
 - 📜 **UiPath Certified Automation Developer Professional** (2026)
+- 🧠 **[Vocalworks](https://github.com/boraswim/vocalworks)** was selected for the **[XERJ Corpus Hub](https://hub.xerj.org/contributors/boraswim)**, an open reference library AI coding agents search before they write code
 - 🎮 Game developer at heart: Unity/C# and, more recently, **Godot**
 - 🏆 **Google Game & App Academy Bootcamp'24**: Special Jury Award with *Escape of The King*, now continued as *HELLMATE*
 - 🌐 Personal site: **[boraswim.github.io](https://boraswim.github.io)**
@@ -50,6 +51,7 @@
       <a href="https://github.com/boraswim/vocalworks"><img src="https://raw.githubusercontent.com/boraswim/vocalworks/main/app/assets/vocalworks-capsule.png" alt="Vocalworks" height="150" /></a>
       <h3><a href="https://github.com/boraswim/vocalworks">Vocalworks</a></h3>
       Windows app for singing covers: records your vocal, matches the original's production (pitch, tone, compression, room…) automatically and mixes the cover, all locally.
+      <br /><a href="https://hub.xerj.org/contributors/boraswim"><img src="https://hub.xerj.org/contributors/boraswim/badge.svg" alt="XERJ Corpus Hub contributor" /></a>
       <br /><br /><code>Python</code> <code>Demucs</code> <code>DSP</code> · <a href="https://boraswim.github.io/vocalworks/">🌐 Project page</a>
     </td>
     <td width="50%" valign="top" align="center">
