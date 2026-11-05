@@ -29,7 +29,7 @@
 - 🎤 Building **[Vocalworks](https://github.com/boraswim/vocalworks)**, a cover-singing app that matches your vocal to the original
 - 📺 Building **[ÇivitTV](https://github.com/boraswim/civit-tv)**, an Apple TV-style launcher for Android TV
 - 🎬 Building **[Glint](https://github.com/boraswim/Glint-for-Android-TV)**, a NAS media player for Android TV, coming soon to Google Play
-- 🎼 Building **[Bosca Ceoil MCP](https://github.com/boraswim/bosca-ceoil-mcp)**, which lets AI tools compose music in Bosca Ceoil Blue
+- 🎼 Building **[Bosca Ceoil MCP](https://github.com/boraswim/bosca-ceoil-mcp)**, which lets AI tools compose music in Bosca Ceoil Blue; its composer skill is listed on **[Agensi](https://www.agensi.io/skills/bosca-ceoil-composer-game-music-sfx)**
 - 🃏 Running **[TierFight](https://tierfight.com)**, my multiplayer tier-list party game, now live at tierfight.com
 - 🕹️ Prototyping games in **Godot**
 
@@ -102,6 +102,7 @@
       <a href="https://boraswim.github.io/bosca-ceoil-mcp/"><img src="https://boraswim.github.io/bosca-ceoil-mcp/preview.jpg" alt="Bosca Ceoil MCP" height="150" /></a>
       <h3><a href="https://github.com/boraswim/bosca-ceoil-mcp">Bosca Ceoil MCP</a></h3>
       MCP server that lets AI tools compose music live in Bosca Ceoil Blue, with undo and exports to WAV, MIDI, XM and MML, plus a composer skill for game music and sound effects.
+      <br /><a href="https://www.agensi.io/skills/bosca-ceoil-composer-game-music-sfx"><img src="https://img.shields.io/badge/Bosca_Ceoil_Composer-on_Agensi-1f6feb" alt="Bosca Ceoil Composer: Game Music &amp; SFX on Agensi" /></a>
       <br /><br /><code>TypeScript</code> <code>MCP</code> <code>GDScript</code> · <a href="https://boraswim.github.io/bosca-ceoil-mcp/">🌐 Project page</a>
     </td>
   </tr>
