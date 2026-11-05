@@ -28,6 +28,8 @@
 - 📚 Starting my **MSc** at Yıldız Technical University
 - 🎤 Building **[Vocalworks](https://github.com/boraswim/vocalworks)**, a cover-singing app that matches your vocal to the original
 - 📺 Building **[ÇivitTV](https://github.com/boraswim/civit-tv)**, an Apple TV-style launcher for Android TV
+- 🎬 Building **[Glint](https://github.com/boraswim/Glint-for-Android-TV)**, a NAS media player for Android TV, coming soon to Google Play
+- 🎼 Building **[Bosca Ceoil MCP](https://github.com/boraswim/bosca-ceoil-mcp)**, which lets AI tools compose music in Bosca Ceoil Blue
 - 🃏 Running **[TierFight](https://tierfight.com)**, my multiplayer tier-list party game, now live at tierfight.com
 - 🕹️ Prototyping games in **Godot**
 
@@ -87,6 +89,20 @@
       <h3><a href="https://boraswim.github.io/gamejams/">Game Jams</a></h3>
       MASS, Time &amp; Space Agent and Trials of Jigsaw. MASS placed 2nd in originality and 5th of 67 at HUJAM'22.
       <br /><br /><code>Unity</code> <code>C#</code> · <a href="https://boraswim.github.io/gamejams/">🌐 Project page</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://boraswim.github.io/glint/"><img src="https://boraswim.github.io/glint/preview.jpg" alt="Glint on Android TV" height="150" /></a>
+      <h3><a href="https://github.com/boraswim/Glint-for-Android-TV">Glint</a></h3>
+      Media player for Android TV that turns the films and series on your NAS into a polished library, with 4K, HDR and lossless surround playback. Coming soon to Google Play.
+      <br /><br /><code>Kotlin</code> <code>Jetpack Compose</code> <code>libVLC</code> · <a href="https://boraswim.github.io/glint/">🌐 Project page</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://boraswim.github.io/bosca-ceoil-mcp/"><img src="https://boraswim.github.io/bosca-ceoil-mcp/preview.jpg" alt="Bosca Ceoil MCP" height="150" /></a>
+      <h3><a href="https://github.com/boraswim/bosca-ceoil-mcp">Bosca Ceoil MCP</a></h3>
+      MCP server that lets AI tools compose music live in Bosca Ceoil Blue, with undo and exports to WAV, MIDI, XM and MML, plus a composer skill for game music and sound effects.
+      <br /><br /><code>TypeScript</code> <code>MCP</code> <code>GDScript</code> · <a href="https://boraswim.github.io/bosca-ceoil-mcp/">🌐 Project page</a>
     </td>
   </tr>
 </table>
