@@ -103,6 +103,7 @@
       <h3><a href="https://github.com/boraswim/bosca-ceoil-mcp">Bosca Ceoil MCP</a></h3>
       MCP server that lets AI tools compose music live in Bosca Ceoil Blue, with undo and exports to WAV, MIDI, XM and MML, plus a composer skill for game music and sound effects.
       <br /><a href="https://www.agensi.io/skills/bosca-ceoil-composer-game-music-sfx"><img src="https://img.shields.io/badge/Bosca_Ceoil_Composer-on_Agensi-1f6feb" alt="Bosca Ceoil Composer: Game Music &amp; SFX on Agensi" /></a>
+      <a href="https://m8ven.ai/mcp/boraswim/bosca-ceoil-mcp?s=readme"><img src="https://m8ven.ai/badge/mcp/boraswim/bosca-ceoil-mcp?variant=verified" alt="M8ven Verified" /></a>
       <br /><br /><code>TypeScript</code> <code>MCP</code> <code>GDScript</code> · <a href="https://boraswim.github.io/bosca-ceoil-mcp/">🌐 Project page</a>
     </td>
   </tr>
